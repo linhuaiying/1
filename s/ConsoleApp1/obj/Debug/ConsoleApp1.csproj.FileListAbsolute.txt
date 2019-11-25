@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\lenovo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\lenovo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\lenovo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\lenovo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\lenovo\source\repos\文字RPG 游戏\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\lenovo\source\repos\文字RPG 游戏\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\lenovo\source\repos\文字RPG 游戏\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\lenovo\source\repos\文字RPG 游戏\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\文字RPG 游戏\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\lenovo\source\repos\文字RPG 游戏\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
